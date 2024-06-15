@@ -43,6 +43,7 @@ step 10: gozine compare & pull request ro click konid
 step 11: user dar shakhe my-feature-branch, comment mizare ke masalan 
 "تغییرات 26 خرداد 1403 اعمال شد"
 v badesh create pull request ta darkhast be malek repository breh
+note: gahi button compare dide nemishe, pas contribute\open pull request\comment and no close comment\create pull request zade shavand
 
 step 12: malek repository ba morajee be fork user marbote my-feature-branch, mitone be tab pull request khod bre v payam bede ke che kar kone ya dar nahayat, merge pull request button ro click kone.
 
