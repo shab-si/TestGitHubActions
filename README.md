@@ -47,3 +47,4 @@ v badesh create pull request ta darkhast be malek repository breh
 step 12: malek repository ba morajee be fork user marbote my-feature-branch, mitone be tab pull request khod bre v payam bede ke che kar kone ya dar nahayat, merge pull request button ro click kone.
 
 payane learning 1.
+is ok?
