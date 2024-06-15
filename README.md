@@ -39,6 +39,9 @@ note: bebnbarin yek branch ya shakhe be nam my-feature-branch dar repository for
 step 9: vared shakhe my-feature-branch shode v mohtavaye readme.md ro change karde v sepas comit konid 
 
 step 10: gozine compare & pull request ro click konid
-/////contribute button click shavad v sepas synk fork shavad ta pull request anjam shavad.
 
-step 11: malek repository ba morajee be fork user marbote, mitone be pull request page bre v pull request ro bebine, darkhast change bede ya an ra commit cone v merge kone
+step 11: user dar shakhe my-feature-branch, comment mizare ke masalan 
+"تغییرات 26 خرداد 1403 اعمال شد"
+v badesh create pull request ta darkhast be malek repository breh
+
+step 12: malek repository ba morajee be fork user marbote my-feature-branch, mitone be tab pull request khod bre v payam bede ke che kar kone ya dar nahayat, merge pull request button ro click kone.
