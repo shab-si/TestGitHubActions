@@ -36,8 +36,9 @@ git push origin my-feature-branch
 
 note: bebnbarin yek branch ya shakhe be nam my-feature-branch dar repository fork TestGitHubActions create mishe
 
-step 9: mohtavaye readme.md ro change karde v sepas comit konid 
+step 9: vared shakhe my-feature-branch shode v mohtavaye readme.md ro change karde v sepas comit konid 
 
-step 10: contribute button click shavad v sepas synk fork shavad ta pull request anjam shavad.
+step 10: 
+/////contribute button click shavad v sepas synk fork shavad ta pull request anjam shavad.
 
 step 11: malek repository ba morajee be fork user marbote, mitone be pull request page bre v pull request ro bebine, darkhast change bede ya an ra commit cone v merge kone
